@@ -1,2 +1,2 @@
 # ScheduledExecutorThreadPoolDemo
-This is demo for running  job bases schedules
+This is demo for running  jobs/woker (threads) as per schedules
